@@ -1,0 +1,114 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+  body {
+    max-width: 980px;
+    margin: 2em auto;
+    font: normal 15px/1.5 Arial, sans-serif;
+    color: #353535;
+    overflow-y: scroll;
+  	padding-top: 50px;
+  	padding-bottom: 20px;
+	background-image: url(../images/img-halftone.png);	
+  }
+  .content {
+    margin: 0 30px;
+  }
+
+  .field.buttons button {
+    margin-right: .5em;
+  }
+
+  #invalid {
+    display: none;
+    float: left;
+    width: 290px;
+    margin-left: 120px;
+    margin-top: .5em;
+    color: #CC2A18;
+    font-size: 130%;
+    font-weight: bold;
+  }
+
+form.idealforms button {
+width: auto;
+margin-bottom: 2px;
+margin-top: 2px;
+}
+
+  .idealforms.adaptive #invalid {
+    margin-left: 0 !important;
+  }
+
+  .idealforms.adaptive .field.buttons label {
+    height: 0;
+  }
+  form.idealforms label.main {
+		width: 160px;
+	}
+	.navbar-inverse .navbar-nav>li>a {
+color: #000;
+background-color: #DDAB30;
+}
+.ui-widget {
+    font: normal 15px/1.5 Arial, sans-serif;
+/* font-size: 1.1em; */
+}
+.navbar-brand {
+	padding: 15px 0 15px 15px;
+}
+form.idealforms input {
+	margin-right: 5px;
+}
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
+color: #DDAB30;
+background-color: #fff;
+}
+.project_name {
+color: #fff;
+padding: 10px;
+font-size: larger;
+font-style: italic;
+margin-right: 10px;
+}
+h2 {
+background-color: #DDAB30;
+padding: 5px;
+}
+.idealsteps-nav{
+position:fixed;z-index:3
+;max-width:980px;
+width:100%}
+
+.idealsteps-wrap {
+position: relative;
+padding-top: 85px;
+z-index: 1;
+}
+#bottom_fade {
+	z-index: 2;
+	position: fixed;
+	bottom: 0%;
+	right:0;
+	left:0;
+	height:200px;
+	background-image: url("../images/bottom-fade.png");
+}
+#top_fade {
+	z-index: 2;
+	position: fixed;
+	top: 0%;
+	right:0;
+	left:0;
+	height:200px;
+	background-image: url("../images/top-fade.png");
+}
+.counter {
+display:none;
+}
+.ui-widget-overlay {
+	background: #666 url("images/ui-bg_flat_0_aaaaaa_40x100.png")repeat-x;
+	opacity: .4;
+	filter: Alpha(Opacity=40);
+}
+.ui-widget {
+	z-index: 5000;
+}

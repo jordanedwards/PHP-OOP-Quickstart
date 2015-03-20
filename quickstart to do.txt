@@ -1,0 +1,83 @@
+Quickstart To Do List:
+
+- ACL Class and application
+- Need to be able to delete / export projects
+- Require password if using on a server, no password required if local
+- Create different scripts for different database access protocols
+- Set phpmailer just to do sendmail locally
+- Use correct include paths and href paths in all files from settings in init.php (so far just list.php is correct): Do all files in base ** Is probably done, just check all files **
+- change app_config folder variables for URL & URI constants.
+- Use foreign keys to generate dropdown class
+
+Config
+
+- maybe make config folder settings navigable? http://labs.abeautifulsite.net/archived/jquery-fileTree/demo/		test/test.php shows directory layout	
+- Project base needs to pull template-specific includes:
+	- css
+	- js
+	- login files
+- Use built-in ACL? checkbox
+- Recaptcha and google analytics codes
+
+Includes
+
+- Includes show select2 items that show what is already being included
+- Includes allow url, or navigate to file
+- Allow upload or reference for javascript, css, & other files. Should show these in list (must save to project.ini). Must be editable
+- Popular libraries show pop up that allows list of CDN hosted libraries to be added (jquery, jquery UI, modernizr, etc)
+- Allow local include or CDN
+
+SQL generator:
+- x's next to the items so that any row can be removed
+- make list sortable
+- clear button
+- label first row as the key
+- radio buttons that show options "download" or "display". If display is selected, show sql in textarea
+- once you fill in the bottom most field and exit, another row should be created. Remove empty rows on the server side
+- Load from table option, and add button "Update table"
+
+SQL Designer
+- Include SQL for designer table in base
+- Save sql output to project .ini file?
+- Automatically load current project from DB when loading project (import from DB option, not "load")
+- If updating database, program should save back up first, then reload with all data (will require some handling for records where fields are removed or added)
+- Allow full screen for sql designer
+- restrict unbderscores in field names.
+
+CSS
+- Figure out LESS includes, css files
+
+Class,Action,View files:
+- For Form, List, and edit views, select ACL level (maybe set when...
+- Use foreign keys to pull drop downs for edit forms
+- When creating edit form, need checkboxes to designate required fields (add validate.js)
+- Checkbox to use recaptcha
+- Figure out how to populate the search inputs with dropdowns
+
+Edit and action file change:
+- Designate a "parent" when creating SQL and populate:
+	- return url after action
+	- line 17 of edit file (pass parent id)
+	- Anywhere else that it needs to be.
+	
+Templating:
+- includes list for head dynamic
+- Allow user to create custom template (Maybe some kind of importer where you label the location of the output items. If you had the text of the sample on the left, and you dragged the elements from a panel on the right into the text. Elements like, form body, application name, etc) 
+- Create other templates
+	
+URL Rewriting:
+- Only show option if PHP OOP is selected- Use Altorouter class & Include in Base- Generate Index.php, and populate router mapping in from database tables 
+
+Debug logging:
+Function to log anything you want to a log, accessible by web
+
+Guide:
+- Explain the foreign key logic for creating drop downs and need for InnoDB to allow for foreign keys.
+
+Optional additional classes:
+- ACL
+- Paypal IPN
+- File upload
+- jQuery plugins and classes
+
+** Once this is all done, create Zend functionality **

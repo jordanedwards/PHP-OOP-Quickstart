@@ -1,0 +1,49 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.navbar-brand {
+	padding: 15px 0 15px 15px;
+}
+tr:nth-child(even) {background: #CCC}
+tr:nth-child(odd) {background: #FFF}
+
+.errorContainer {
+display:none;
+}
+.navbar-inverse .navbar-nav>li>a {
+color: antiquewhite;
+}
+table.admin_table { border:	1px solid #602618; border-collapse:collapse;-moz-border-radius:5px;border-radius:5px;box-shadow:0 1px 3px rgba(0, 0, 0, 0.35); }
+table.admin_table th { padding: 5px; border:1px solid #602618;}
+table.admin_table td { padding: 5px; border:1px solid #602618; }
+table.admin_table tr:hover {background-color:#eee;}
+
+/* SORTABLE TABLE CSS */
+
+table.sort_table th {
+	background: #DDAB30 url(../images/carets.gif) no-repeat center right;
+	padding-right: 20px;	
+	cursor: pointer;
+	white-space:nowrap;
+}
+
+table.sort_table tr .sort_asc{
+background: 
+	url(../images/desc.gif) no-repeat center right,
+	#DDAB30 url(../images/lighten.png);
+	padding-right: 20px;	
+}
+
+table.sort_table tr .sort_desc{
+background: 
+	url(../images/asc.gif) no-repeat center right,
+	#DDAB30 url(../images/lighten.png);
+	padding-right: 20px;	
+}
+
+table.sort_table th.nosort{
+	background: #D8C7AB;
+	cursor:auto;
+}

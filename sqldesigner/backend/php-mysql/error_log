@@ -1,0 +1,5 @@
+[20-Sep-2014 18:28:05 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/sqldesigner/backend/php-mysql/index.php on line 17
+[20-Sep-2014 19:19:16 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/sqldesigner/backend/php-mysql/index.php on line 17
+[20-Sep-2014 19:19:39 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/sqldesigner/backend/php-mysql/index.php on line 17
+[20-Sep-2014 19:20:09 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/sqldesigner/backend/php-mysql/index.php on line 17
+[20-Sep-2014 19:20:17 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/sqldesigner/backend/php-mysql/index.php on line 17

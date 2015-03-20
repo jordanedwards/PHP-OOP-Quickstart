@@ -1,0 +1,86 @@
+[21-Jul-2014 08:16:51 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2
+[21-Jul-2014 08:16:56 UTC] PHP Warning:  mysql_connect(): Access denied for user 'tr_db_user'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2
+[21-Jul-2014 08:30:14 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2
+[21-Jul-2014 17:42:44 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2
+[22-Jul-2014 16:19:34 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2
+[15-Aug-2014 00:43:25 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_fields.php on line 2
+[15-Aug-2014 00:43:52 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_fields.php on line 2
+[15-Aug-2014 00:44:20 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_fields.php on line 2
+[15-Aug-2014 00:46:19 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_fields.php on line 2
+[15-Aug-2014 00:47:26 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_fields.php on line 2
+[15-Aug-2014 00:48:30 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_fields.php on line 2
+[15-Aug-2014 00:48:39 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_fields.php on line 2
+[15-Aug-2014 00:48:58 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_fields.php on line 2
+[15-Aug-2014 00:49:51 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/orchardc/public_html/quickstart/ajax/ajax_show_fields.php on line 12
+[15-Aug-2014 00:50:12 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/orchardc/public_html/quickstart/ajax/ajax_show_fields.php on line 12
+[15-Aug-2014 00:50:16 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/orchardc/public_html/quickstart/ajax/ajax_show_fields.php on line 12
+[15-Aug-2014 00:50:24 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/orchardc/public_html/quickstart/ajax/ajax_show_fields.php on line 12
+[15-Aug-2014 00:50:29 UTC] PHP Warning:  mysql_connect(): Access denied for user 'orchardc_je'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_fields.php on line 2
+[15-Aug-2014 00:51:06 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_fields.php on line 2
+[08-Oct-2014 18:31:17 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2
+[08-Oct-2014 18:35:44 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2
+[16-Oct-2014 08:01:47 UTC] PHP Warning:  mysql_connect(): Unknown MySQL server host 'mysql1' (2) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2
+[16-Oct-2014 22:27:27 UTC] PHP Warning:  mysql_connect(): Unknown MySQL server host 'mysql1' (2) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2
+[16-Oct-2014 23:02:24 UTC] PHP Warning:  mysql_connect(): Unknown MySQL server host 'mysql1' (2) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2
+[02-Nov-2014 23:18:03 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/orchardc/public_html/quickstart/ajax/ajax_sess_var.php on line 5
+[02-Nov-2014 23:18:52 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/orchardc/public_html/quickstart/ajax/ajax_sess_var.php on line 5
+[02-Nov-2014 23:19:40 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/orchardc/public_html/quickstart/ajax/ajax_sess_var.php on line 5
+[02-Nov-2014 23:20:18 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/orchardc/public_html/quickstart/ajax/ajax_sess_var.php on line 5
+[11-Nov-2014 04:31:38 UTC] PHP Parse error:  syntax error, unexpected 'endswitch' (T_ENDSWITCH), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 32
+[11-Nov-2014 04:31:48 UTC] PHP Parse error:  syntax error, unexpected 'endswitch' (T_ENDSWITCH), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 32
+[11-Nov-2014 04:32:07 UTC] PHP Parse error:  syntax error, unexpected 'endswitch' (T_ENDSWITCH), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 32
+[11-Nov-2014 04:32:32 UTC] PHP Parse error:  syntax error, unexpected 'endswitch' (T_ENDSWITCH), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 32
+[11-Nov-2014 04:32:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 49
+[11-Nov-2014 04:33:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 49
+[11-Nov-2014 04:33:48 UTC] PHP Warning:  file_get_contents(../projects/We Teach Sports.ini): failed to open stream: No such file or directory in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 7
+[11-Nov-2014 04:34:01 UTC] PHP Warning:  file_get_contents(../projects/We Teach Sports.ini): failed to open stream: No such file or directory in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 7
+[11-Nov-2014 04:34:15 UTC] PHP Warning:  file_get_contents(../projects/We Teach Sports.ini): failed to open stream: No such file or directory in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 7
+[11-Nov-2014 04:34:15 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 34
+[11-Nov-2014 04:34:42 UTC] PHP Warning:  file_get_contents(../projects/We Teach Sports.ini): failed to open stream: No such file or directory in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 7
+[11-Nov-2014 04:34:42 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 34
+[11-Nov-2014 04:35:15 UTC] PHP Warning:  file_get_contents(../projects/We Teach Sports.ini): failed to open stream: No such file or directory in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 7
+[11-Nov-2014 04:35:15 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 34
+[11-Nov-2014 04:40:13 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 33
+[11-Nov-2014 04:42:09 UTC] PHP Parse error:  syntax error, unexpected '$json_project_settings' (T_VARIABLE) in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 34
+[11-Nov-2014 04:42:22 UTC] PHP Parse error:  syntax error, unexpected '$json_project_settings' (T_VARIABLE) in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 34
+[11-Nov-2014 04:42:32 UTC] PHP Parse error:  syntax error, unexpected '$json_project_settings' (T_VARIABLE) in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 34
+[11-Nov-2014 04:42:37 UTC] PHP Parse error:  syntax error, unexpected '$json_project_settings' (T_VARIABLE) in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 34
+[11-Nov-2014 04:43:09 UTC] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 34
+[11-Nov-2014 04:43:15 UTC] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 34
+[11-Nov-2014 04:43:26 UTC] PHP Warning:  file_get_contents(../projects/We Teach Sports): failed to open stream: No such file or directory in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 6
+[11-Nov-2014 04:43:26 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 33
+[11-Nov-2014 22:50:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 37
+[11-Nov-2014 23:05:29 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '{' in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 16
+[11-Nov-2014 23:07:32 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '{' in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 16
+[11-Nov-2014 23:07:48 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '{' in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 16
+[11-Nov-2014 23:08:07 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '{' in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 16
+[11-Nov-2014 23:08:14 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '{' in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 16
+[11-Nov-2014 23:11:59 UTC] PHP Parse error:  syntax error, unexpected '$type' (T_VARIABLE), expecting '(' in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 18
+[11-Nov-2014 23:12:13 UTC] PHP Parse error:  syntax error, unexpected '$type' (T_VARIABLE), expecting '(' in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 18
+[11-Nov-2014 23:12:37 UTC] PHP Parse error:  syntax error, unexpected '$type' (T_VARIABLE), expecting '(' in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 18
+[11-Nov-2014 23:12:58 UTC] PHP Parse error:  syntax error, unexpected '$type' (T_VARIABLE), expecting '(' in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 18
+[11-Nov-2014 23:13:28 UTC] PHP Parse error:  syntax error, unexpected '$type' (T_VARIABLE), expecting '(' in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 18
+[11-Nov-2014 23:56:54 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2
+[12-Nov-2014 01:00:58 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2
+[13-Nov-2014 05:48:18 UTC] PHP Warning:  mysql_connect(): Unknown MySQL server host 'undefined' (2) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2
+[23-Nov-2014 01:49:01 UTC] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home/orchardc/public_html/quickstart/ajax/ajax_test_db.php on line 3
+[17-Dec-2014 19:43:42 UTC] PHP Warning:  mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/classes/class_data_manager_extended.php on line 28
+[17-Dec-2014 19:43:42 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/classes/class_data_manager_extended.php on line 33
+[17-Dec-2014 19:43:42 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/orchardc/public_html/quickstart/classes/class_data_manager_extended.php on line 33
+[17-Dec-2014 19:43:42 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 62
+[17-Dec-2014 19:43:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 62
+[17-Dec-2014 19:43:42 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 64
+[17-Dec-2014 19:43:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 64
+[17-Dec-2014 19:43:42 UTC] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 65
+[17-Dec-2014 19:43:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 66
+[17-Dec-2014 19:43:42 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/orchardc/public_html/quickstart/classes/class_data_manager_extended.php on line 57
+[17-Dec-2014 19:43:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/orchardc/public_html/quickstart/ajax/ajax_get_edit_fields.php on line 133
+[16-Jan-2015 03:25:19 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2
+[16-Jan-2015 03:28:48 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2
+[16-Jan-2015 03:33:13 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2
+[17-Jan-2015 15:48:17 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2
+[21-Jan-2015 16:06:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/orchardc/public_html/quickstart/ajax/ajax_get_sql_fields.php on line 164
+[21-Jan-2015 16:17:49 UTC] PHP Warning:  mysql_num_fields() expects parameter 1 to be resource, boolean given in /home/orchardc/public_html/quickstart/ajax/ajax_get_sql_fields.php on line 32
+[21-Jan-2015 16:17:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/orchardc/public_html/quickstart/ajax/ajax_get_sql_fields.php on line 33
+[08-Feb-2015 19:16:03 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2
+[28-Feb-2015 17:40:36 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/ajax/ajax_show_tables.php on line 2

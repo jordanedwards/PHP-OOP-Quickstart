@@ -1,0 +1,239 @@
+
+[16-Oct-2014 19:33:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/orchardc/public_html/quickstart/actions/action_page_template_creator.php on line 28
+[02-Nov-2014 18:23:07 UTC] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 60
+[02-Nov-2014 18:23:21 UTC] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 60
+[02-Nov-2014 18:23:22 UTC] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 60
+[02-Nov-2014 18:23:36 UTC] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 60
+[02-Nov-2014 18:23:37 UTC] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 60
+[02-Nov-2014 18:23:42 UTC] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 60
+[02-Nov-2014 18:24:00 UTC] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 60
+[02-Nov-2014 18:24:15 UTC] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 60
+[02-Nov-2014 18:27:19 UTC] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 60
+[02-Nov-2014 18:27:22 UTC] PHP Fatal error:  Call to a member function get_id() on a non-object in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 60
+[02-Nov-2014 18:27:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 64
+[02-Nov-2014 18:27:59 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 94
+[02-Nov-2014 18:27:59 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 94
+[02-Nov-2014 18:27:59 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 94
+[02-Nov-2014 18:28:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 64
+[02-Nov-2014 18:28:14 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 94
+[02-Nov-2014 18:28:14 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 94
+[02-Nov-2014 18:28:14 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 94
+[02-Nov-2014 18:31:14 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 95
+[02-Nov-2014 18:31:14 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 95
+[02-Nov-2014 18:31:14 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 95
+[02-Nov-2014 18:31:20 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 95
+[02-Nov-2014 18:31:20 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 95
+[02-Nov-2014 18:31:20 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 95
+[02-Nov-2014 19:13:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 60
+[12-Nov-2014 00:07:34 UTC] PHP Fatal error:  Call to undefined method DataManager::get_by_file() in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 28
+[12-Nov-2014 00:16:10 UTC] PHP Fatal error:  Call to a member function get_by_name() on a non-object in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 32
+[12-Nov-2014 00:19:16 UTC] PHP Warning:  mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/orchardc/public_html/quickstart/classes/class_data_manager_extended.php on line 28
+[12-Nov-2014 00:19:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php:15) in /home/orchardc/public_html/quickstart/classes/class_error_handler.php on line 28
+[12-Nov-2014 00:20:59 UTC] PHP Fatal error:  Call to undefined method DataManager::attributes() in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 105
+[12-Nov-2014 00:21:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 60
+[12-Nov-2014 00:26:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 48
+[12-Nov-2014 00:29:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 48
+[12-Nov-2014 00:40:45 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:45 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:45 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:45 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:45 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:45 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:45 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:45 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:45 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:45 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:45 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:45 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:45 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php:51) in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 110
+[12-Nov-2014 00:40:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php:51) in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 111
+[12-Nov-2014 00:40:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 60
+[12-Nov-2014 00:40:46 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:46 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:46 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:46 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:46 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:46 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:46 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:46 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:46 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:46 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:46 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:46 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:46 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 51
+[12-Nov-2014 00:40:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php:51) in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 110
+[12-Nov-2014 00:40:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php:51) in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 111
+[12-Nov-2014 00:40:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 60
+[12-Nov-2014 00:41:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 60
+[12-Nov-2014 00:43:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 60
+[12-Nov-2014 00:43:28 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:43:28 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:43:28 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:43:28 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:43:28 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:43:28 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:43:28 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:43:28 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:43:28 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:43:28 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:43:28 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:43:28 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:43:28 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:48:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 60
+[12-Nov-2014 00:48:15 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:48:15 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:48:15 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:48:15 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:48:15 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:48:15 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:48:15 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:48:15 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:48:15 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:48:15 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:48:15 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:48:15 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Standard/edit.tpl on line 80
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 93
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 93
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 93
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 93
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 93
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 93
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 93
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 93
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 93
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 93
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 93
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:52:22 UTC] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 93
+[12-Nov-2014 00:56:26 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:56:26 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:56:26 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:56:26 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:56:26 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:56:26 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:56:26 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:56:26 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:56:26 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:56:26 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 00:56:26 UTC] PHP Warning:  Illegal string offset 'type' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 94
+[12-Nov-2014 01:25:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 126
+[12-Nov-2014 01:26:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 126
+[12-Nov-2014 01:26:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 126
+[12-Nov-2014 01:26:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 126
+[12-Nov-2014 01:27:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 126
+[12-Nov-2014 01:28:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 126
+[12-Nov-2014 01:30:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[12-Nov-2014 01:44:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 56
+[12-Nov-2014 02:23:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[12-Nov-2014 02:30:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[12-Nov-2014 02:35:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[12-Nov-2014 02:49:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[12-Nov-2014 03:48:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[12-Nov-2014 03:49:20 UTC] PHP Fatal error:  Call to undefined function trim_from_marker() in /home/orchardc/public_html/quickstart/actions/action_page_template_creator.php on line 43
+[12-Nov-2014 03:49:31 UTC] PHP Fatal error:  Call to undefined function trim_from_marker() in /home/orchardc/public_html/quickstart/actions/action_page_template_creator.php on line 43
+[12-Nov-2014 05:30:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[12-Nov-2014 05:37:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[12-Nov-2014 05:53:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[13-Nov-2014 06:56:59 UTC] PHP Fatal error:  Call to a member function getAlertMessage() on a non-object in /home/orchardc/public_html/includes/system_messaging.php on line 1
+[13-Nov-2014 06:57:20 UTC] PHP Fatal error:  Call to a member function getAlertMessage() on a non-object in /home/orchardc/public_html/includes/system_messaging.php on line 1
+[13-Nov-2014 07:24:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[13-Nov-2014 07:52:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[17-Nov-2014 18:20:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[17-Nov-2014 18:32:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[18-Nov-2014 03:34:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[18-Nov-2014 03:38:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[18-Nov-2014 03:51:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[18-Nov-2014 03:56:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[18-Nov-2014 03:56:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[18-Nov-2014 03:57:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[18-Nov-2014 03:58:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[18-Nov-2014 04:06:13 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:06:13 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:06:13 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:06:13 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:06:13 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:07:31 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:07:31 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:07:31 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:07:31 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:07:31 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:07:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[18-Nov-2014 04:07:56 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:07:56 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:07:56 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:07:56 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:07:56 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:07:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[18-Nov-2014 04:10:00 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:10:00 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:10:00 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:10:00 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:10:00 UTC] PHP Warning:  Illegal string offset 'value' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 56
+[18-Nov-2014 04:13:01 UTC] PHP Fatal error:  Using $this when not in object context in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 64
+[18-Nov-2014 04:13:03 UTC] PHP Fatal error:  Using $this when not in object context in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 64
+[18-Nov-2014 04:14:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[18-Nov-2014 04:15:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[18-Nov-2014 04:16:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[18-Nov-2014 04:17:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[18-Nov-2014 04:18:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[18-Nov-2014 04:21:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[21-Nov-2014 17:08:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 56
+[17-Dec-2014 18:43:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[17-Dec-2014 18:43:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[17-Dec-2014 19:44:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 57
+[18-Dec-2014 00:21:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 57
+[18-Dec-2014 00:24:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 57
+[21-Dec-2014 22:16:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[21-Dec-2014 22:20:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[21-Dec-2014 23:14:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[21-Dec-2014 23:22:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 54
+[21-Dec-2014 23:22:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[16-Jan-2015 03:42:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 54
+[16-Jan-2015 03:42:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 57
+[16-Jan-2015 14:32:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 57
+[16-Jan-2015 15:09:56 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 80
+[16-Jan-2015 15:09:56 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 80
+[16-Jan-2015 15:09:56 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 80
+[16-Jan-2015 15:09:56 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 80
+[16-Jan-2015 15:09:56 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 80
+[16-Jan-2015 15:09:56 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 80
+[16-Jan-2015 15:10:16 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 70
+[16-Jan-2015 15:10:16 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 70
+[16-Jan-2015 15:10:16 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 70
+[16-Jan-2015 15:10:16 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 70
+[16-Jan-2015 15:10:16 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 70
+[16-Jan-2015 15:10:16 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 70
+[16-Jan-2015 15:10:16 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 80
+[16-Jan-2015 15:10:16 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 80
+[16-Jan-2015 15:10:16 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 80
+[16-Jan-2015 15:10:16 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 80
+[16-Jan-2015 15:10:16 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 80
+[16-Jan-2015 15:10:16 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 80
+[16-Jan-2015 15:12:06 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 70
+[16-Jan-2015 15:12:06 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 70
+[16-Jan-2015 15:12:06 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 70
+[16-Jan-2015 15:12:06 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 70
+[16-Jan-2015 15:12:06 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 70
+[16-Jan-2015 15:12:06 UTC] PHP Warning:  Illegal string offset 'validate_vars' in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 70
+[16-Jan-2015 15:16:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 57
+[17-Jan-2015 17:47:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 57
+[22-Jan-2015 14:35:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 57
+[08-Feb-2015 18:59:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 57
+[08-Feb-2015 19:16:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 57
+[22-Feb-2015 20:40:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 54
+[22-Feb-2015 20:40:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap-admin/edit.tpl on line 71
+[28-Feb-2015 17:43:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/actions/action_edit_form_creator.php on line 54
+[28-Feb-2015 17:43:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 57
+[28-Feb-2015 17:43:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orchardc/public_html/quickstart/templates/Bootstrap/edit.tpl on line 180
